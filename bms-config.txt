@@ -1,0 +1,70 @@
+{
+  "freemasterVersion": "desktop",
+  "elfPath": "Managed from Desktop Application",
+  "liteConnection": {
+    "liteServerUrl": "localhost:41000",
+    "connString": "Managed from Desktop Application"
+  },
+  "cellsNumber": 6,
+  "units": {
+    "systemSocUnits": "%",
+    "systemVoltageUnits": "V",
+    "systemCurrentUnits": "A",
+    "systemTempUnits": "°C",
+    "systemPowerUnits": "W",
+    "axis": {
+      "voltage": {
+        "µV": {
+          "min": 0,
+          "max": 5000000
+        },
+        "mV": {
+          "min": 0,
+          "max": 5000
+        },
+        "V": {
+          "min": 0,
+          "max": 5
+        }
+      },
+      "current": {
+        "µA": {
+          "min": -2000000,
+          "max": 2000000
+        },
+        "mA": {
+          "min": -2000,
+          "max": 2000
+        },
+        "A": {
+          "min": -2,
+          "max": 2
+        }
+      },
+      "balancing": {
+        "min": 0,
+        "max": 1.5
+      },
+      "temp": {
+        "°C": {
+          "min": -40,
+          "max": 80
+        },
+        "°F": {
+          "min": -40,
+          "max": 180
+        },
+        "K": {
+          "min": 230,
+          "max": 355
+        }
+      }
+    }
+  },
+  "graphSettings": {
+    "graphAutoscaling": true,
+    "graphAnimations": true,
+    "maxOnGraphDataPoints": 10
+  },
+  "theme": "dark"
+}
