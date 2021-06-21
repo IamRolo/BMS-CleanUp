@@ -1,0 +1,472 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info>
+    <Files>
+        <File path=".gitattributes" value="b2b8ee3d" />
+        <File path=".gitignore" value="1777623c" />
+        <File path="CAN_TX_RX.prj" value="fe84b66d" />
+        <File path="CAN_TX_RX.slxc" value="6901b59f" />
+        <File path="CAN_TX_RX.slx" value="a3cd5622" />
+        <File path="CAN_TX_RX_mbd_rtw/CAN_TX_RX.bat" value="20485e3a" />
+        <File path="CAN_TX_RX_mbd_rtw/CAN_TX_RX.c" value="d901b431" />
+        <File path="CAN_TX_RX_mbd_rtw/CAN_TX_RX.elf" value="145022d7" />
+        <File path="CAN_TX_RX_mbd_rtw/CAN_TX_RX.h" value="36a91381" />
+        <File path="CAN_TX_RX_mbd_rtw/CAN_TX_RX.map" value="e073f0bb" />
+        <File path="CAN_TX_RX_mbd_rtw/CAN_TX_RX.mk" value="ecb01193" />
+        <File path="CAN_TX_RX_mbd_rtw/CAN_TX_RX.mot" value="eb7645ac" />
+        <File path="CAN_TX_RX_mbd_rtw/CAN_TX_RX.o" value="213b4297" />
+        <File path="CAN_TX_RX_mbd_rtw/CAN_TX_RX_data.c" value="52c11a3" />
+        <File path="CAN_TX_RX_mbd_rtw/CAN_TX_RX_data.o" value="43306622" />
+        <File path="CAN_TX_RX_mbd_rtw/CAN_TX_RX_private.h" value="b36c0da7" />
+        <File path="CAN_TX_RX_mbd_rtw/CAN_TX_RX_types.h" value="526c26e" />
+        <File path="CAN_TX_RX_mbd_rtw/ProjectInfo.xml" value="9663746" />
+        <File path="CAN_TX_RX_mbd_rtw/S32K144/include/S32K144.h" value="d4971001" />
+        <File path="CAN_TX_RX_mbd_rtw/S32K144/include/S32K144_features.h" value="647c5aec" />
+        <File path="CAN_TX_RX_mbd_rtw/S32K144/include" value="-1" />
+        <File path="CAN_TX_RX_mbd_rtw/S32K144" value="-1" />
+        <File path="CAN_TX_RX_mbd_rtw/S32K14x.ld" value="bb210242" />
+        <File path="CAN_TX_RX_mbd_rtw/S32K14x_AMMCLIB.a" value="edf78720" />
+        <File path="CAN_TX_RX_mbd_rtw/buildInfo.mat" value="8eee5e5c" />
+        <File path="CAN_TX_RX_mbd_rtw/callbacks.h" value="9f341fc" />
+        <File path="CAN_TX_RX_mbd_rtw/clock_S32K1xx.c" value="cae8f830" />
+        <File path="CAN_TX_RX_mbd_rtw/clock_S32K1xx.o" value="479d39ea" />
+        <File path="CAN_TX_RX_mbd_rtw/codeInfo.mat" value="8464b1ac" />
+        <File path="CAN_TX_RX_mbd_rtw/codedescriptor.dmr" value="2d3249f5" />
+        <File path="CAN_TX_RX_mbd_rtw/common/S32_core_cm4.h" value="5cbea40e" />
+        <File path="CAN_TX_RX_mbd_rtw/common" value="-1" />
+        <File path="CAN_TX_RX_mbd_rtw/compileInfo.mat" value="519f1977" />
+        <File path="CAN_TX_RX_mbd_rtw/defines.txt" value="7c2f8ab8" />
+        <File path="CAN_TX_RX_mbd_rtw/devassert.h" value="dab34aa4" />
+        <File path="CAN_TX_RX_mbd_rtw/device_registers.h" value="995cdb1c" />
+        <File path="CAN_TX_RX_mbd_rtw/edma_driver.c" value="ca5b6d50" />
+        <File path="CAN_TX_RX_mbd_rtw/edma_driver.h" value="843d000e" />
+        <File path="CAN_TX_RX_mbd_rtw/edma_driver.o" value="1da6093" />
+        <File path="CAN_TX_RX_mbd_rtw/edma_hw_access.c" value="594649ba" />
+        <File path="CAN_TX_RX_mbd_rtw/edma_hw_access.h" value="1c818e23" />
+        <File path="CAN_TX_RX_mbd_rtw/edma_hw_access.o" value="490b5a90" />
+        <File path="CAN_TX_RX_mbd_rtw/edma_irq.c" value="b48df6d9" />
+        <File path="CAN_TX_RX_mbd_rtw/edma_irq.h" value="115f34f6" />
+        <File path="CAN_TX_RX_mbd_rtw/edma_irq.o" value="9997c258" />
+        <File path="CAN_TX_RX_mbd_rtw/fcan0_s32k_rx_isr.c" value="98f7ed9c" />
+        <File path="CAN_TX_RX_mbd_rtw/fcan0_s32k_rx_isr.h" value="90ca78ce" />
+        <File path="CAN_TX_RX_mbd_rtw/fcan0_s32k_rx_isr.o" value="978c7bd3" />
+        <File path="CAN_TX_RX_mbd_rtw/flexcan_driver.c" value="fcf1adf4" />
+        <File path="CAN_TX_RX_mbd_rtw/flexcan_driver.h" value="2c8d78d3" />
+        <File path="CAN_TX_RX_mbd_rtw/flexcan_driver.o" value="959dc049" />
+        <File path="CAN_TX_RX_mbd_rtw/flexcan_hw_access.c" value="2d4947ba" />
+        <File path="CAN_TX_RX_mbd_rtw/flexcan_hw_access.h" value="775e55c0" />
+        <File path="CAN_TX_RX_mbd_rtw/flexcan_hw_access.o" value="a974a14c" />
+        <File path="CAN_TX_RX_mbd_rtw/flexcan_irq.c" value="b5676575" />
+        <File path="CAN_TX_RX_mbd_rtw/flexcan_irq.h" value="a1fde9b5" />
+        <File path="CAN_TX_RX_mbd_rtw/flexcan_irq.o" value="7e5456e5" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster.h" value="14e8d3da" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_S32K1xx.c" value="d0147b10" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_S32K1xx.h" value="4dfe7153" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_S32K1xx.o" value="69f8cf2f" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_appcmd.c" value="da0e3edb" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_appcmd.o" value="2150ffdc" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_cfg.h" value="beb9dee6" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_defcfg.h" value="319257a5" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_interface_init.c" value="8a6d8ce0" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_interface_init.h" value="7e788ba" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_interface_init.o" value="b3b51dac" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_private.h" value="4dcd223" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_protocol.c" value="78d2dafc" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_protocol.h" value="7ced8116" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_protocol.o" value="7acfe2e7" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_rec.c" value="432cdd9" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_rec.h" value="e5012b72" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_rec.o" value="f54b2088" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_scope.c" value="2c8cf3b8" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_scope.o" value="b80f5b5f" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_serial.c" value="cc182b84" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_serial.o" value="3b02670a" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_sfio.c" value="5e7dff85" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_sfio.o" value="b89173b7" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_tsa.c" value="62af9d72" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_tsa.h" value="1f2ec013" />
+        <File path="CAN_TX_RX_mbd_rtw/freemaster_tsa.o" value="d0b9787e" />
+        <File path="CAN_TX_RX_mbd_rtw/html/CAN_TX_RX_c.html" value="e40cc48d" />
+        <File path="CAN_TX_RX_mbd_rtw/html/CAN_TX_RX_codegen_rpt.html" value="c54801d1" />
+        <File path="CAN_TX_RX_mbd_rtw/html/CAN_TX_RX_coderassumptions.html" value="c20c6a8a" />
+        <File path="CAN_TX_RX_mbd_rtw/html/CAN_TX_RX_contents.html" value="244baebf" />
+        <File path="CAN_TX_RX_mbd_rtw/html/CAN_TX_RX_data_c.html" value="4940cb63" />
+        <File path="CAN_TX_RX_mbd_rtw/html/CAN_TX_RX_h.html" value="80c6e790" />
+        <File path="CAN_TX_RX_mbd_rtw/html/CAN_TX_RX_interface.html" value="f00831d8" />
+        <File path="CAN_TX_RX_mbd_rtw/html/CAN_TX_RX_metrics.html" value="10083754" />
+        <File path="CAN_TX_RX_mbd_rtw/html/CAN_TX_RX_private_h.html" value="8c09ea62" />
+        <File path="CAN_TX_RX_mbd_rtw/html/CAN_TX_RX_replacements.html" value="b101c2b2" />
+        <File path="CAN_TX_RX_mbd_rtw/html/CAN_TX_RX_subsystems.html" value="ae9dd009" />
+        <File path="CAN_TX_RX_mbd_rtw/html/CAN_TX_RX_survey.html" value="59a91d1c" />
+        <File path="CAN_TX_RX_mbd_rtw/html/CAN_TX_RX_trace.html" value="a425b5e9" />
+        <File path="CAN_TX_RX_mbd_rtw/html/CAN_TX_RX_traceInfo.js" value="32f2295b" />
+        <File path="CAN_TX_RX_mbd_rtw/html/CAN_TX_RX_types_h.html" value="2cfe0a44" />
+        <File path="CAN_TX_RX_mbd_rtw/html/S32K144_features_h.html" value="8b8cb8f4" />
+        <File path="CAN_TX_RX_mbd_rtw/html/S32K144_h.html" value="b65c3635" />
+        <File path="CAN_TX_RX_mbd_rtw/html/S32_core_cm4_h.html" value="8eae1619" />
+        <File path="CAN_TX_RX_mbd_rtw/html/clock_S32K1xx_h.html" value="93b5635a" />
+        <File path="CAN_TX_RX_mbd_rtw/html/clock_h.html" value="c17de314" />
+        <File path="CAN_TX_RX_mbd_rtw/html/clock_manager_h.html" value="2ec468cc" />
+        <File path="CAN_TX_RX_mbd_rtw/html/css/coder_app.css" value="dbbfee95" />
+        <File path="CAN_TX_RX_mbd_rtw/html/css" value="-1" />
+        <File path="CAN_TX_RX_mbd_rtw/html/define.js" value="45a776a8" />
+        <File path="CAN_TX_RX_mbd_rtw/html/fcan0_s32k_rx_isr_c.html" value="4cc52c63" />
+        <File path="CAN_TX_RX_mbd_rtw/html/fcan0_s32k_rx_isr_h.html" value="d746eb45" />
+        <File path="CAN_TX_RX_mbd_rtw/html/freemaster_cfg_h.html" value="7d76cb54" />
+        <File path="CAN_TX_RX_mbd_rtw/html/freemaster_interface_init_c.html" value="ee786c1e" />
+        <File path="CAN_TX_RX_mbd_rtw/html/freemaster_interface_init_h.html" value="75043e31" />
+        <File path="CAN_TX_RX_mbd_rtw/html/hilite_warning.png" value="ff0ddfe9" />
+        <File path="CAN_TX_RX_mbd_rtw/html/inspect.html" value="580ab9a0" />
+        <File path="CAN_TX_RX_mbd_rtw/html/interrupt_manager_h.html" value="d76489ab" />
+        <File path="CAN_TX_RX_mbd_rtw/html/js/coder_app.js" value="71ca2c1e" />
+        <File path="CAN_TX_RX_mbd_rtw/html/js" value="-1" />
+        <File path="CAN_TX_RX_mbd_rtw/html/lpit_driver_h.html" value="75730fc6" />
+        <File path="CAN_TX_RX_mbd_rtw/html/mbd_main_c.html" value="8a56cbe6" />
+        <File path="CAN_TX_RX_mbd_rtw/html/metrics.js" value="aa1bdd80" />
+        <File path="CAN_TX_RX_mbd_rtw/html/nav.html" value="ddba5eb7" />
+        <File path="CAN_TX_RX_mbd_rtw/html/navToolbar.html" value="9d0e2783" />
+        <File path="CAN_TX_RX_mbd_rtw/html/pcc_hw_access_h.html" value="1e3deaa9" />
+        <File path="CAN_TX_RX_mbd_rtw/html/pins_driver_h.html" value="926f48a5" />
+        <File path="CAN_TX_RX_mbd_rtw/html/pmc_hw_access_h.html" value="c556b96c" />
+        <File path="CAN_TX_RX_mbd_rtw/html/power_manager_S32K1xx_h.html" value="81d87606" />
+        <File path="CAN_TX_RX_mbd_rtw/html/power_manager_h.html" value="dcbf8f60" />
+        <File path="CAN_TX_RX_mbd_rtw/html/power_rcm_hw_access_h.html" value="df13bb6a" />
+        <File path="CAN_TX_RX_mbd_rtw/html/power_smc_hw_access_h.html" value="15032e98" />
+        <File path="CAN_TX_RX_mbd_rtw/html/rtwcodemetricsreport_utils.js" value="b6ece717" />
+        <File path="CAN_TX_RX_mbd_rtw/html/rtwhilite.js" value="f3c3014" />
+        <File path="CAN_TX_RX_mbd_rtw/html/rtwmsg.html" value="807df6de" />
+        <File path="CAN_TX_RX_mbd_rtw/html/rtwreport.css" value="8d087cbf" />
+        <File path="CAN_TX_RX_mbd_rtw/html/rtwreport_utils.js" value="4ee3fd8" />
+        <File path="CAN_TX_RX_mbd_rtw/html/rtwshrink.js" value="1496296c" />
+        <File path="CAN_TX_RX_mbd_rtw/html/rtwtypes_h.html" value="ef723dd5" />
+        <File path="CAN_TX_RX_mbd_rtw/html/s32k_clock_init_h.html" value="8d380fa8" />
+        <File path="CAN_TX_RX_mbd_rtw/html/scg_hw_access_h.html" value="764a9df6" />
+        <File path="CAN_TX_RX_mbd_rtw/html/search.js" value="1a7fdaa2" />
+        <File path="CAN_TX_RX_mbd_rtw/html/sim_hw_access_h.html" value="5c85207" />
+        <File path="CAN_TX_RX_mbd_rtw/html/smc_hw_access_h.html" value="6cf7cad6" />
+        <File path="CAN_TX_RX_mbd_rtw/html/spinner.gif" value="b2bd646a" />
+        <File path="CAN_TX_RX_mbd_rtw/html/traceInfo.mat" value="75d97587" />
+        <File path="CAN_TX_RX_mbd_rtw/html/traceInfo_flag.js" value="eb4b129d" />
+        <File path="CAN_TX_RX_mbd_rtw/html" value="-1" />
+        <File path="CAN_TX_RX_mbd_rtw/inc/clock.h" value="5d8aa15" />
+        <File path="CAN_TX_RX_mbd_rtw/inc/clock_manager.h" value="6f52cf1c" />
+        <File path="CAN_TX_RX_mbd_rtw/inc/interrupt_manager.h" value="2551a239" />
+        <File path="CAN_TX_RX_mbd_rtw/inc/lpit_driver.h" value="5dfddd15" />
+        <File path="CAN_TX_RX_mbd_rtw/inc/pins_driver.h" value="bfb8b1de" />
+        <File path="CAN_TX_RX_mbd_rtw/inc/power_manager.h" value="99ad6a82" />
+        <File path="CAN_TX_RX_mbd_rtw/inc" value="-1" />
+        <File path="CAN_TX_RX_mbd_rtw/interrupt_manager.c" value="ab9eccde" />
+        <File path="CAN_TX_RX_mbd_rtw/interrupt_manager.o" value="39bcf456" />
+        <File path="CAN_TX_RX_mbd_rtw/lin_common.c" value="231910d" />
+        <File path="CAN_TX_RX_mbd_rtw/lin_common.o" value="c6487024" />
+        <File path="CAN_TX_RX_mbd_rtw/lin_driver.c" value="82015baa" />
+        <File path="CAN_TX_RX_mbd_rtw/lin_driver.h" value="f90e97c7" />
+        <File path="CAN_TX_RX_mbd_rtw/lin_driver.o" value="6477ed16" />
+        <File path="CAN_TX_RX_mbd_rtw/lin_irq.c" value="e395464d" />
+        <File path="CAN_TX_RX_mbd_rtw/lin_irq.o" value="1a54b1a1" />
+        <File path="CAN_TX_RX_mbd_rtw/lin_lpuart_driver.c" value="5594561" />
+        <File path="CAN_TX_RX_mbd_rtw/lin_lpuart_driver.h" value="581f1395" />
+        <File path="CAN_TX_RX_mbd_rtw/lin_lpuart_driver.o" value="7441ed7e" />
+        <File path="CAN_TX_RX_mbd_rtw/lpit_driver.c" value="333f02d4" />
+        <File path="CAN_TX_RX_mbd_rtw/lpit_driver.o" value="f8fb271d" />
+        <File path="CAN_TX_RX_mbd_rtw/lpit_hw_access.h" value="a3b487a0" />
+        <File path="CAN_TX_RX_mbd_rtw/lpuart_driver.c" value="bdd04136" />
+        <File path="CAN_TX_RX_mbd_rtw/lpuart_driver.h" value="25d6288d" />
+        <File path="CAN_TX_RX_mbd_rtw/lpuart_driver.o" value="28219987" />
+        <File path="CAN_TX_RX_mbd_rtw/lpuart_hw_access.c" value="ad084338" />
+        <File path="CAN_TX_RX_mbd_rtw/lpuart_hw_access.h" value="591afea8" />
+        <File path="CAN_TX_RX_mbd_rtw/lpuart_hw_access.o" value="80e7d608" />
+        <File path="CAN_TX_RX_mbd_rtw/lpuart_irq.c" value="f443f03e" />
+        <File path="CAN_TX_RX_mbd_rtw/lpuart_irq.h" value="7bf65b5f" />
+        <File path="CAN_TX_RX_mbd_rtw/lpuart_irq.o" value="287f005d" />
+        <File path="CAN_TX_RX_mbd_rtw/mbd_main.c" value="56a23d8" />
+        <File path="CAN_TX_RX_mbd_rtw/mbd_main.o" value="d09b99be" />
+        <File path="CAN_TX_RX_mbd_rtw/modelsources.txt" value="7f03f18a" />
+        <File path="CAN_TX_RX_mbd_rtw/osif.h" value="b7aab089" />
+        <File path="CAN_TX_RX_mbd_rtw/osif_baremetal.c" value="2f0489ca" />
+        <File path="CAN_TX_RX_mbd_rtw/osif_baremetal.o" value="6bc5d47a" />
+        <File path="CAN_TX_RX_mbd_rtw/pins_driver.c" value="9812deda" />
+        <File path="CAN_TX_RX_mbd_rtw/pins_driver.o" value="dccce856" />
+        <File path="CAN_TX_RX_mbd_rtw/pins_gpio_hw_access.h" value="6d1b92ba" />
+        <File path="CAN_TX_RX_mbd_rtw/pins_port_hw_access.c" value="af367f03" />
+        <File path="CAN_TX_RX_mbd_rtw/pins_port_hw_access.h" value="fa8a67" />
+        <File path="CAN_TX_RX_mbd_rtw/pins_port_hw_access.o" value="f8959b25" />
+        <File path="CAN_TX_RX_mbd_rtw/power_manager.c" value="384c9cdb" />
+        <File path="CAN_TX_RX_mbd_rtw/power_manager.o" value="d27b79be" />
+        <File path="CAN_TX_RX_mbd_rtw/power_manager_S32K1xx.c" value="1da26e67" />
+        <File path="CAN_TX_RX_mbd_rtw/power_manager_S32K1xx.o" value="9b8110b9" />
+        <File path="CAN_TX_RX_mbd_rtw/power_scg_hw_access.h" value="2229ce1a" />
+        <File path="CAN_TX_RX_mbd_rtw/power_smc_hw_access.c" value="6ec629a0" />
+        <File path="CAN_TX_RX_mbd_rtw/power_smc_hw_access.o" value="2424a551" />
+        <File path="CAN_TX_RX_mbd_rtw/rtw_continuous.h" value="6ebb4b8a" />
+        <File path="CAN_TX_RX_mbd_rtw/rtw_proj.tmw" value="c4fcc850" />
+        <File path="CAN_TX_RX_mbd_rtw/rtw_solver.h" value="b415c0d3" />
+        <File path="CAN_TX_RX_mbd_rtw/rtwtypes.h" value="302df0b9" />
+        <File path="CAN_TX_RX_mbd_rtw/rtwtypeschksum.mat" value="27f97a25" />
+        <File path="CAN_TX_RX_mbd_rtw/s32k_clock_init.c" value="9cafa15b" />
+        <File path="CAN_TX_RX_mbd_rtw/s32k_clock_init.h" value="8cdced2a" />
+        <File path="CAN_TX_RX_mbd_rtw/s32k_clock_init.o" value="e5dce446" />
+        <File path="CAN_TX_RX_mbd_rtw/src/clock/S32K1xx/clock_S32K1xx.h" value="d192d553" />
+        <File path="CAN_TX_RX_mbd_rtw/src/clock/S32K1xx/pcc_hw_access.h" value="938a30d3" />
+        <File path="CAN_TX_RX_mbd_rtw/src/clock/S32K1xx/pmc_hw_access.h" value="7ccf8a13" />
+        <File path="CAN_TX_RX_mbd_rtw/src/clock/S32K1xx/scg_hw_access.h" value="1abe492e" />
+        <File path="CAN_TX_RX_mbd_rtw/src/clock/S32K1xx/sim_hw_access.h" value="d7a6e9f" />
+        <File path="CAN_TX_RX_mbd_rtw/src/clock/S32K1xx/smc_hw_access.h" value="53b080d1" />
+        <File path="CAN_TX_RX_mbd_rtw/src/clock/S32K1xx" value="-1" />
+        <File path="CAN_TX_RX_mbd_rtw/src/clock" value="-1" />
+        <File path="CAN_TX_RX_mbd_rtw/src/power/S32K1xx/power_manager_S32K1xx.h" value="e0e5fa0c" />
+        <File path="CAN_TX_RX_mbd_rtw/src/power/S32K1xx/power_rcm_hw_access.h" value="b0829027" />
+        <File path="CAN_TX_RX_mbd_rtw/src/power/S32K1xx/power_smc_hw_access.h" value="de1188ac" />
+        <File path="CAN_TX_RX_mbd_rtw/src/power/S32K1xx" value="-1" />
+        <File path="CAN_TX_RX_mbd_rtw/src/power" value="-1" />
+        <File path="CAN_TX_RX_mbd_rtw/src" value="-1" />
+        <File path="CAN_TX_RX_mbd_rtw/startup.c" value="9eb4d8d" />
+        <File path="CAN_TX_RX_mbd_rtw/startup.h" value="6f9282ea" />
+        <File path="CAN_TX_RX_mbd_rtw/startup.o" value="51b92c81" />
+        <File path="CAN_TX_RX_mbd_rtw/startup_S32K144.o" value="81e19305" />
+        <File path="CAN_TX_RX_mbd_rtw/startup_S32K144.s" value="b37535d" />
+        <File path="CAN_TX_RX_mbd_rtw/status.h" value="e63cbcd6" />
+        <File path="CAN_TX_RX_mbd_rtw/system_S32K144.c" value="279632ff" />
+        <File path="CAN_TX_RX_mbd_rtw/system_S32K144.h" value="d1f39285" />
+        <File path="CAN_TX_RX_mbd_rtw/system_S32K144.o" value="f5642bb3" />
+        <File path="CAN_TX_RX_mbd_rtw/tmwinternal/simulink_cache.xml" value="718e0f50" />
+        <File path="CAN_TX_RX_mbd_rtw/tmwinternal" value="-1" />
+        <File path="CAN_TX_RX_mbd_rtw" value="-1" />
+        <File path="Git Commands.txt" value="a19b3415" />
+        <File path="README.md" value="e6eac3e2" />
+        <File path="resources/project/Extensions.type.Root/Information.type.Extension.xml" value="de2820d9" />
+        <File path="resources/project/Extensions.type.Root" value="-1" />
+        <File path="resources/project/Project.xml" value="c576b26a" />
+        <File path="resources/project/ProjectData.type.Info.xml" value="993cdfea" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category.xml" value="d2dc6b71" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/artifact.type.Label.xml" value="3a808e07" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/convenience.type.Label.xml" value="9fa19c1e" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/derived.type.Label.xml" value="b32f4cc5" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/design.type.Label.xml" value="657f94e3" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/none.type.Label.xml" value="4434695f" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/other.type.Label.xml" value="7716e543" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/test.type.Label.xml" value="eff7b485" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category" value="-1" />
+        <File path="resources/project/Root.type.Categories" value="-1" />
+        <File path="resources/project/Root.type.EntryPoints/3e449f06-c3b1-43e7-b75d-073fee805ee0.type.EntryPoint.xml" value="23c8c828" />
+        <File path="resources/project/Root.type.EntryPoints" value="-1" />
+        <File path="resources/project/Root.type.Extensions" value="-1" />
+        <File path="resources/project/Root.type.Files/.gitattributes.type.File.xml" value="df0217e1" />
+        <File path="resources/project/Root.type.Files/.gitignore.type.File.xml" value="6827d0ff" />
+        <File path="resources/project/Root.type.Files/CAN_TX_RX.slx.type.File.xml" value="df0217e1" />
+        <File path="resources/project/Root.type.Files/Git Commands.txt.type.File.xml" value="3af507e" />
+        <File path="resources/project/Root.type.Files" value="-1" />
+        <File path="resources/project/Root.type.ProjectData" value="-1" />
+        <File path="resources/project/Root.type.ProjectPath/12b0c39b-1c4f-49bd-bd3f-b884c229cd45.type.Reference.xml" value="77b500aa" />
+        <File path="resources/project/Root.type.ProjectPath" value="-1" />
+        <File path="resources/project/uuid-498dc127-d4cf-49fe-89c4-d77aefad26a9.xml" value="3af507e" />
+        <File path="resources/project" value="-1" />
+        <File path="resources" value="-1" />
+        <File path="slprj/_jitprj/jitEngineAccessInfo.mat" value="4c7f3c6c" />
+        <File path="slprj/_jitprj/sUksQ0rudExXZW0uiVDzAPF.l" value="9e805186" />
+        <File path="slprj/_jitprj/sUksQ0rudExXZW0uiVDzAPF.mat" value="961b57c9" />
+        <File path="slprj/_jitprj/sVMkWewd4rIhADxviRf3sxB.l" value="90bef642" />
+        <File path="slprj/_jitprj/sVMkWewd4rIhADxviRf3sxB.mat" value="460ee2c8" />
+        <File path="slprj/_jitprj/sbFG1NveYmDYkmSP8u8mjSG.l" value="57611122" />
+        <File path="slprj/_jitprj/sbFG1NveYmDYkmSP8u8mjSG.mat" value="d28c36d" />
+        <File path="slprj/_jitprj/seIZSV3VrVhfrkj4vi6wEpE.l" value="7514227c" />
+        <File path="slprj/_jitprj/seIZSV3VrVhfrkj4vi6wEpE.mat" value="de399c3d" />
+        <File path="slprj/_jitprj/skKq8MG7a9wQkXatpGB4oNE.l" value="b1f07ff3" />
+        <File path="slprj/_jitprj/skKq8MG7a9wQkXatpGB4oNE.mat" value="88464903" />
+        <File path="slprj/_jitprj" value="-1" />
+        <File path="slprj/_sfprj/CAN_TX_RX/_self/rtw/mbd_s32k/info/binfo.mat" value="5dee4a94" />
+        <File path="slprj/_sfprj/CAN_TX_RX/_self/rtw/mbd_s32k/info" value="-1" />
+        <File path="slprj/_sfprj/CAN_TX_RX/_self/rtw/mbd_s32k/src/CAN_TX_RX_rtw.tlc" value="acbc607f" />
+        <File path="slprj/_sfprj/CAN_TX_RX/_self/rtw/mbd_s32k/src/CAN_TX_RX_rtw.tlh" value="5dcda2f" />
+        <File path="slprj/_sfprj/CAN_TX_RX/_self/rtw/mbd_s32k/src/c3_CAN_TX_RX.tlc" value="bb809c82" />
+        <File path="slprj/_sfprj/CAN_TX_RX/_self/rtw/mbd_s32k/src/c3_CAN_TX_RX.tlh" value="14a285ac" />
+        <File path="slprj/_sfprj/CAN_TX_RX/_self/rtw/mbd_s32k/src" value="-1" />
+        <File path="slprj/_sfprj/CAN_TX_RX/_self/rtw/mbd_s32k" value="-1" />
+        <File path="slprj/_sfprj/CAN_TX_RX/_self/rtw" value="-1" />
+        <File path="slprj/_sfprj/CAN_TX_RX/_self/sfun/info/binfo.mat" value="89cfee1e" />
+        <File path="slprj/_sfprj/CAN_TX_RX/_self/sfun/info" value="-1" />
+        <File path="slprj/_sfprj/CAN_TX_RX/_self/sfun" value="-1" />
+        <File path="slprj/_sfprj/CAN_TX_RX/_self" value="-1" />
+        <File path="slprj/_sfprj/CAN_TX_RX/amsi_serial.mat" value="e0bab3d7" />
+        <File path="slprj/_sfprj/CAN_TX_RX" value="-1" />
+        <File path="slprj/_sfprj/EMLReport/emlReportAccessInfo.mat" value="64d7272b" />
+        <File path="slprj/_sfprj/EMLReport/s2HcvuRlf9W0yPAtJiG2wSC.mat" value="d04f6043" />
+        <File path="slprj/_sfprj/EMLReport/s2HcvuRlf9W0yPAtJiG2wSC" value="-1" />
+        <File path="slprj/_sfprj/EMLReport/sCjTbBay3USL0BdfBeXVQ8G.mat" value="bf0d0282" />
+        <File path="slprj/_sfprj/EMLReport/sCjTbBay3USL0BdfBeXVQ8G" value="-1" />
+        <File path="slprj/_sfprj/EMLReport/sIODAOhPmhY0XETSs9JOH1B.mat" value="ed078c1b" />
+        <File path="slprj/_sfprj/EMLReport/sIODAOhPmhY0XETSs9JOH1B" value="-1" />
+        <File path="slprj/_sfprj/EMLReport/sVMkWewd4rIhADxviRf3sxB.mat" value="105e50e7" />
+        <File path="slprj/_sfprj/EMLReport/sVMkWewd4rIhADxviRf3sxB" value="-1" />
+        <File path="slprj/_sfprj/EMLReport/sbFG1NveYmDYkmSP8u8mjSG.mat" value="ab584dd2" />
+        <File path="slprj/_sfprj/EMLReport/sbFG1NveYmDYkmSP8u8mjSG" value="-1" />
+        <File path="slprj/_sfprj/EMLReport/seIZSV3VrVhfrkj4vi6wEpE.mat" value="fca5cfad" />
+        <File path="slprj/_sfprj/EMLReport/seIZSV3VrVhfrkj4vi6wEpE" value="-1" />
+        <File path="slprj/_sfprj/EMLReport/skKq8MG7a9wQkXatpGB4oNE.mat" value="2c0438a" />
+        <File path="slprj/_sfprj/EMLReport/skKq8MG7a9wQkXatpGB4oNE" value="-1" />
+        <File path="slprj/_sfprj/EMLReport/srCKcVpfw6lOTPBj3SszBpH.mat" value="7959b21a" />
+        <File path="slprj/_sfprj/EMLReport/srCKcVpfw6lOTPBj3SszBpH" value="-1" />
+        <File path="slprj/_sfprj/EMLReport" value="-1" />
+        <File path="slprj/_sfprj/ee_ipmsm_torque_control_hev_series_parallel/amsi_serial.mat" value="5a20d08b" />
+        <File path="slprj/_sfprj/ee_ipmsm_torque_control_hev_series_parallel/eePwmGeneratorTwoLevel/sfun/info/binfo.mat" value="ec01a3a6" />
+        <File path="slprj/_sfprj/ee_ipmsm_torque_control_hev_series_parallel/eePwmGeneratorTwoLevel/sfun/info" value="-1" />
+        <File path="slprj/_sfprj/ee_ipmsm_torque_control_hev_series_parallel/eePwmGeneratorTwoLevel/sfun" value="-1" />
+        <File path="slprj/_sfprj/ee_ipmsm_torque_control_hev_series_parallel/eePwmGeneratorTwoLevel" value="-1" />
+        <File path="slprj/_sfprj/ee_ipmsm_torque_control_hev_series_parallel" value="-1" />
+        <File path="slprj/_sfprj/precompile/4nT4SgzktakMFUWPODw1iB.mat" value="e70ba7f4" />
+        <File path="slprj/_sfprj/precompile/LBso43oxurhYbwOFE75FRC.mat" value="3075cc07" />
+        <File path="slprj/_sfprj/precompile/Mjvr8n0TQ5D3cNPS2djjJF.mat" value="5ea1880b" />
+        <File path="slprj/_sfprj/precompile/Vg6034o9TeTpVkWny7a1R.mat" value="9eba84b1" />
+        <File path="slprj/_sfprj/precompile/XykeeQ2P33MycIHczOA02D.mat" value="485f6bbb" />
+        <File path="slprj/_sfprj/precompile/YsPmoMLkAUWVNtSJ6PeF0.mat" value="f18467a2" />
+        <File path="slprj/_sfprj/precompile/ZP9c73iiLt5rfTf60ofmzC.mat" value="7a3b528" />
+        <File path="slprj/_sfprj/precompile/autoInferAccessInfo.mat" value="31fa6fa2" />
+        <File path="slprj/_sfprj/precompile/bRRtDE26dDdXE3yp7Ogo6F.mat" value="447db70" />
+        <File path="slprj/_sfprj/precompile/lxgSgqapjeSlkB6ywVTUIB.mat" value="a7b2f613" />
+        <File path="slprj/_sfprj/precompile/r7srPbaKzWTIAbiUKT6XgE.mat" value="100cada" />
+        <File path="slprj/_sfprj/precompile" value="-1" />
+        <File path="slprj/_sfprj" value="-1" />
+        <File path="slprj/mbd_s32k/CAN_TX_RX/tmwinternal/CompileInfo.xml" value="d74a656d" />
+        <File path="slprj/mbd_s32k/CAN_TX_RX/tmwinternal/binfo.mat" value="f8fc9b07" />
+        <File path="slprj/mbd_s32k/CAN_TX_RX/tmwinternal/codeMetrics.mat" value="d8a8c1da" />
+        <File path="slprj/mbd_s32k/CAN_TX_RX/tmwinternal/minfo.mat" value="8ec64884" />
+        <File path="slprj/mbd_s32k/CAN_TX_RX/tmwinternal/scv" value="8e967e5f" />
+        <File path="slprj/mbd_s32k/CAN_TX_RX/tmwinternal/tr" value="c456caae" />
+        <File path="slprj/mbd_s32k/CAN_TX_RX/tmwinternal" value="-1" />
+        <File path="slprj/mbd_s32k/CAN_TX_RX" value="-1" />
+        <File path="slprj/mbd_s32k/_sharedutils/shared_file.dmr" value="5017b918" />
+        <File path="slprj/mbd_s32k/_sharedutils" value="-1" />
+        <File path="slprj/mbd_s32k" value="-1" />
+        <File path="slprj/sim/varcache/ee_ipmsm_torque_control_hev_series_parallel/checksumOfCache.mat" value="264d05cc" />
+        <File path="slprj/sim/varcache/ee_ipmsm_torque_control_hev_series_parallel/tmwinternal/simulink_cache.xml" value="5fadfdd7" />
+        <File path="slprj/sim/varcache/ee_ipmsm_torque_control_hev_series_parallel/tmwinternal" value="-1" />
+        <File path="slprj/sim/varcache/ee_ipmsm_torque_control_hev_series_parallel/varInfo.mat" value="8898dec2" />
+        <File path="slprj/sim/varcache/ee_ipmsm_torque_control_hev_series_parallel" value="-1" />
+        <File path="slprj/sim/varcache" value="-1" />
+        <File path="slprj/sim" value="-1" />
+        <File path="slprj/sl_proj.tmw" value="111ad3af" />
+        <File path="slprj" value="-1" />
+    </Files>
+    <MetadataNode>
+        <path value="Extensions:type:Root">
+            <path value="Information:type:Extension">
+                <node name="Info">
+                    <entry value="This project contains a specific CAN (Controller Area Network) MBD implementation for s32K144.  The implementation is based on ION's CAN protocol for the BMS ECU. " key="description" />
+                </node>
+            </path>
+        </path>
+        <path value="ProjectData:type:Info">
+            <node name="Info">
+                <entry value="CAN_TX_RX" key="Name" />
+            </node>
+        </path>
+        <path value="Root:type:Categories">
+            <path value="FileClassCategory:type:Category">
+                <node name="Info">
+                    <entry value="None" key="DataType" />
+                    <entry value="Classification" key="Name" />
+                    <entry value="1" key="ReadOnly" />
+                    <entry value="1" key="SingleValued" />
+                </node>
+                <path value="artifact:type:Label">
+                    <node name="Info">
+                        <entry value="Artifact" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="convenience:type:Label">
+                    <node name="Info">
+                        <entry value="Convenience" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="derived:type:Label">
+                    <node name="Info">
+                        <entry value="Derived" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="design:type:Label">
+                    <node name="Info">
+                        <entry value="Design" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="none:type:Label">
+                    <node name="Info">
+                        <entry value="None" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="other:type:Label">
+                    <node name="Info">
+                        <entry value="Other" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="test:type:Label">
+                    <node name="Info">
+                        <entry value="Test" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+            </path>
+        </path>
+        <path value="Root:type:EntryPoints">
+            <path value="3e449f06-c3b1-43e7-b75d-073fee805ee0:type:EntryPoint">
+                <node name="Info">
+                    <entry value="CAN_TX_RX.slx" key="File" />
+                    <entry value="" key="Icon" />
+                    <entry value="CAN_TX_RX" key="Name" />
+                    <entry value="Basic" key="Type" />
+                    <entry value="1" key="Visible" />
+                </node>
+            </path>
+        </path>
+        <path value="Root:type:Extensions" />
+        <path value="Root:type:Files">
+            <path value=".gitattributes:type:File">
+                <node name="Info">
+                    <node name="Category">
+                        <entry value="FileClassCategory" key="UUID" />
+                        <node name="Label">
+                            <entry value="design" key="UUID" />
+                        </node>
+                    </node>
+                </node>
+            </path>
+            <path value=".gitignore:type:File">
+                <node name="Info">
+                    <node name="Category">
+                        <entry value="FileClassCategory" key="UUID" />
+                        <node name="Label">
+                            <entry value="design" key="UUID" />
+                        </node>
+                    </node>
+                </node>
+            </path>
+            <path value="CAN_TX_RX.slx:type:File">
+                <node name="Info">
+                    <node name="Category">
+                        <entry value="FileClassCategory" key="UUID" />
+                        <node name="Label">
+                            <entry value="design" key="UUID" />
+                        </node>
+                    </node>
+                </node>
+            </path>
+            <path value="Git Commands.txt:type:File">
+                <node name="Info" />
+            </path>
+        </path>
+        <path value="Root:type:ProjectData" />
+        <path value="Root:type:ProjectPath">
+            <path value="12b0c39b-1c4f-49bd-bd3f-b884c229cd45:type:Reference">
+                <node name="Info">
+                    <entry value="" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+        </path>
+    </MetadataNode>
+    <Date value="June 21, 2021 9:56:18 AM" />
+</Info>
