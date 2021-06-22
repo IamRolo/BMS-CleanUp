@@ -1,0 +1,3 @@
+[submodule "BMS-CAN-Project"]
+	path = BMS-CAN-Project
+	url = https://github.com/Ion-Mobility-Systems/BMS-CAN-Project.git

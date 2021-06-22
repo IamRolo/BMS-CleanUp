@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info>
+    <MetadataNode>
+        <path value="Extensions:type:Root">
+            <path value="Information:type:Extension">
+                <node name="Info">
+                    <entry value="This project contains a specific CAN (Controller Area Network) MBD implementation for s32K144.  The implementation is based on ION's CAN protocol for the BMS ECU. " key="description" />
+                </node>
+            </path>
+        </path>
+        <path value="ProjectData:type:Info">
+            <node name="Info">
+                <entry value="CAN_TX_RX" key="Name" />
+            </node>
+        </path>
+        <path value="Root:type:Categories">
+            <path value="FileClassCategory:type:Category">
+                <node name="Info">
+                    <entry value="None" key="DataType" />
+                    <entry value="Classification" key="Name" />
+                    <entry value="1" key="ReadOnly" />
+                    <entry value="1" key="SingleValued" />
+                </node>
+                <path value="artifact:type:Label">
+                    <node name="Info">
+                        <entry value="Artifact" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="convenience:type:Label">
+                    <node name="Info">
+                        <entry value="Convenience" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="derived:type:Label">
+                    <node name="Info">
+                        <entry value="Derived" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="design:type:Label">
+                    <node name="Info">
+                        <entry value="Design" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="none:type:Label">
+                    <node name="Info">
+                        <entry value="None" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="other:type:Label">
+                    <node name="Info">
+                        <entry value="Other" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+                <path value="test:type:Label">
+                    <node name="Info">
+                        <entry value="Test" key="Name" />
+                        <entry value="READ_ONLY" key="ReadOnly" />
+                    </node>
+                </path>
+            </path>
+        </path>
+        <path value="Root:type:EntryPoints">
+            <path value="3e449f06-c3b1-43e7-b75d-073fee805ee0:type:EntryPoint">
+                <node name="Info">
+                    <entry value="CAN_TX_RX.slx" key="File" />
+                    <entry value="" key="Icon" />
+                    <entry value="CAN_TX_RX" key="Name" />
+                    <entry value="Basic" key="Type" />
+                    <entry value="1" key="Visible" />
+                </node>
+            </path>
+        </path>
+        <path value="Root:type:Files">
+            <path value=".gitattributes:type:File">
+                <node name="Info">
+                    <node name="Category">
+                        <entry value="FileClassCategory" key="UUID" />
+                        <node name="Label">
+                            <entry value="design" key="UUID" />
+                        </node>
+                    </node>
+                </node>
+            </path>
+            <path value=".gitignore:type:File">
+                <node name="Info">
+                    <node name="Category">
+                        <entry value="FileClassCategory" key="UUID" />
+                        <node name="Label">
+                            <entry value="design" key="UUID" />
+                        </node>
+                    </node>
+                </node>
+            </path>
+            <path value="CAN_TX_RX.slx:type:File">
+                <node name="Info">
+                    <node name="Category">
+                        <entry value="FileClassCategory" key="UUID" />
+                        <node name="Label">
+                            <entry value="design" key="UUID" />
+                        </node>
+                    </node>
+                </node>
+            </path>
+            <path value="Git Commands.txt:type:File">
+                <node name="Info" />
+            </path>
+        </path>
+        <path value="Root:type:ProjectPath">
+            <path value="12b0c39b-1c4f-49bd-bd3f-b884c229cd45:type:Reference">
+                <node name="Info">
+                    <entry value="" key="Ref" />
+                    <entry value="Relative" key="Type" />
+                </node>
+            </path>
+        </path>
+    </MetadataNode>
+    <Files>
+        <File path=".gitattributes" value="b2b8ee3d" />
+        <File path=".gitignore" value="1777623c" />
+        <File path="CAN_TX_RX.prj" value="fe84b66d" />
+        <File path="CAN_TX_RX.slx" value="a3cd5622" />
+        <File path="Git Commands.txt" value="a19b3415" />
+        <File path="README.md" value="e6eac3e2" />
+        <File path="resources/project/Extensions.type.Root/Information.type.Extension.xml" value="de2820d9" />
+        <File path="resources/project/Extensions.type.Root" value="-1" />
+        <File path="resources/project/Project.xml" value="d8fe8231" />
+        <File path="resources/project/ProjectData.type.Info.xml" value="b41cb9dc" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category.xml" value="bb05bc8d" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/artifact.type.Label.xml" value="d392500b" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/convenience.type.Label.xml" value="7ab9fc4a" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/derived.type.Label.xml" value="c25475c3" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/design.type.Label.xml" value="afc31ba7" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/none.type.Label.xml" value="bf4f871a" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/other.type.Label.xml" value="715b2bb2" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category/test.type.Label.xml" value="148c5ac0" />
+        <File path="resources/project/Root.type.Categories/FileClassCategory.type.Category" value="-1" />
+        <File path="resources/project/Root.type.Categories" value="-1" />
+        <File path="resources/project/Root.type.EntryPoints/3e449f06-c3b1-43e7-b75d-073fee805ee0.type.EntryPoint.xml" value="23c8c828" />
+        <File path="resources/project/Root.type.EntryPoints" value="-1" />
+        <File path="resources/project/Root.type.Files/.gitattributes.type.File.xml" value="6827d0ff" />
+        <File path="resources/project/Root.type.Files/.gitignore.type.File.xml" value="6827d0ff" />
+        <File path="resources/project/Root.type.Files/CAN_TX_RX.slx.type.File.xml" value="6827d0ff" />
+        <File path="resources/project/Root.type.Files/Git Commands.txt.type.File.xml" value="8f31f7d0" />
+        <File path="resources/project/Root.type.Files" value="-1" />
+        <File path="resources/project/Root.type.ProjectPath/12b0c39b-1c4f-49bd-bd3f-b884c229cd45.type.Reference.xml" value="77b500aa" />
+        <File path="resources/project/Root.type.ProjectPath" value="-1" />
+        <File path="resources/project/uuid-498dc127-d4cf-49fe-89c4-d77aefad26a9.xml" value="8f31f7d0" />
+        <File path="resources/project" value="-1" />
+        <File path="resources" value="-1" />
+    </Files>
+    <Date value="June 22, 2021 2:08:22 PM" />
+</Info>
