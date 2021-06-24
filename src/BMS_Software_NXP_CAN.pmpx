@@ -19,12 +19,12 @@
 			<member name="mapfile_pre_select" type="sint32">0</member>
 			<member name="comm_params_saved" type="sint32">0</member>
 			<member name="comm_state_saved" type="sint32">0</member>
-			<member name="comm_state_enabled" type="sint32">1</member>
+			<member name="comm_state_enabled" type="sint32">0</member>
 			<member name="cthread_boosting" type="sint32">0</member>
 			<member name="cthread_prio_base" type="sint32">3</member>
 			<member name="cthread_prio_boost" type="sint32">3</member>
 			<member name="tmpdir_orig" type="string"/>
-			<member name="html_control_page" type="string">..\FreeMASTER_GUI\src\bms\index.html</member>
+			<member name="html_control_page" type="string">..\FreeMaster_GUI_2\index.html</member>
 			<member name="html_rendering_engine" type="sint32">1</member>
 			<member name="demo_enable" type="sint32">0</member>
 			<member name="demo_protect" type="sint32">0</member>
@@ -5421,9 +5421,9 @@
 			<member name="size_shift_right" type="sint32">0</member>
 		</object>
 		<object name="ObjId0020" type="CObList">
-			<member name="item0" type="CObject_ptr">ObjId0584</member>
+			<member name="item0" type="CObject_ptr">ObjId0585</member>
 		</object>
-		<object name="ObjId0584" type="CPrjDoc_MapFileInfo">
+		<object name="ObjId0585" type="CPrjDoc_MapFileInfo">
 			<member name="file_name" type="string">.\BMS_Software_NXP_Rolo_mbd_rtw\BMS_Software_NXP_Rolo.elf</member>
 			<member name="file_type" type="CObject_ptr">ObjId0006</member>
 		</object>
@@ -5722,10 +5722,10 @@
 			<member name="join_class" type="sint32">0</member>
 			<member name="laxis_label" type="string">lAxis</member>
 			<member name="laxis_style" type="sint32">0</member>
-			<member name="laxis_min" type="real64">-1.00000000000000000000e+001</member>
-			<member name="laxis_max" type="real64">1.00000000000000000000e+001</member>
-			<member name="laxis_min_auto" type="sint32">1</member>
-			<member name="laxis_max_auto" type="sint32">1</member>
+			<member name="laxis_min" type="real64">3.50000000000000000000e+000</member>
+			<member name="laxis_max" type="real64">3.70000000000000020000e+000</member>
+			<member name="laxis_min_auto" type="sint32">0</member>
+			<member name="laxis_max_auto" type="sint32">0</member>
 			<member name="raxis_label" type="string">rAxis</member>
 			<member name="raxis_style" type="sint32">0</member>
 			<member name="raxis_min" type="real64">-1.00000000000000000000e+001</member>
