@@ -5,6 +5,7 @@ src/slprj
 src/*_slrt_rtw
 src/*_ert_rtw
 src/BMS_Software_NXP_Rolo_mbd_rtw
+src/CAN_TX_RX_mbd_rtw
 src/BMS_Software_NXP_mbd_rtw
 src/New_pmp/
 src/built_example/
