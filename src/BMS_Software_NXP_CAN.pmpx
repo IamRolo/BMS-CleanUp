@@ -149,7 +149,7 @@
 			<member name="unit" type="string">A</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">PackCurrent</member>
-			<member name="last_addr" type="uint32">0x200001C0</member>
+			<member name="last_addr" type="uint32">0x200002DC</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -198,7 +198,7 @@
 			<member name="unit" type="string">V</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellVoltage[0]</member>
-			<member name="last_addr" type="uint32">0x20000524</member>
+			<member name="last_addr" type="uint32">0x200006B0</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -247,7 +247,7 @@
 			<member name="unit" type="string">V</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellVoltage[1]</member>
-			<member name="last_addr" type="uint32">0x20000528</member>
+			<member name="last_addr" type="uint32">0x200006B4</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -296,7 +296,7 @@
 			<member name="unit" type="string">V</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellVoltage[2]</member>
-			<member name="last_addr" type="uint32">0x2000052C</member>
+			<member name="last_addr" type="uint32">0x200006B8</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -345,7 +345,7 @@
 			<member name="unit" type="string">V</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellVoltage[3]</member>
-			<member name="last_addr" type="uint32">0x20000530</member>
+			<member name="last_addr" type="uint32">0x200006BC</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -394,7 +394,7 @@
 			<member name="unit" type="string">V</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellVoltage[4]</member>
-			<member name="last_addr" type="uint32">0x20000534</member>
+			<member name="last_addr" type="uint32">0x200006C0</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -443,7 +443,7 @@
 			<member name="unit" type="string">V</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellVoltage[5]</member>
-			<member name="last_addr" type="uint32">0x20000538</member>
+			<member name="last_addr" type="uint32">0x200006C4</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -492,7 +492,7 @@
 			<member name="unit" type="string">*C</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">InternalTemperature</member>
-			<member name="last_addr" type="uint32">0x200000DC</member>
+			<member name="last_addr" type="uint32">0x20000114</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -541,7 +541,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">BMS_Info_OUT[0]</member>
-			<member name="last_addr" type="uint32">0x20000508</member>
+			<member name="last_addr" type="uint32">0x20000690</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -590,7 +590,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">BMS_Info_OUT[1]</member>
-			<member name="last_addr" type="uint32">0x20000509</member>
+			<member name="last_addr" type="uint32">0x20000691</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -639,7 +639,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">BMS_Info_OUT[2]</member>
-			<member name="last_addr" type="uint32">0x2000050A</member>
+			<member name="last_addr" type="uint32">0x20000692</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -688,7 +688,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">BMS_Info_OUT[3]</member>
-			<member name="last_addr" type="uint32">0x2000050B</member>
+			<member name="last_addr" type="uint32">0x20000693</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -737,7 +737,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">500</member>
 			<member name="address" type="string">BMS_Info_OUT[4]</member>
-			<member name="last_addr" type="uint32">0x2000050C</member>
+			<member name="last_addr" type="uint32">0x20000694</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -786,7 +786,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">BMS_Info_OUT[5]</member>
-			<member name="last_addr" type="uint32">0x2000050D</member>
+			<member name="last_addr" type="uint32">0x20000695</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -835,7 +835,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">BMS_Info_OUT[6]</member>
-			<member name="last_addr" type="uint32">0x2000050E</member>
+			<member name="last_addr" type="uint32">0x20000696</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -884,7 +884,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">BMS_Info_OUT[7]</member>
-			<member name="last_addr" type="uint32">0x2000050F</member>
+			<member name="last_addr" type="uint32">0x20000697</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -933,7 +933,7 @@
 			<member name="unit" type="string">V</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">PackVoltage</member>
-			<member name="last_addr" type="uint32">0x2000051C</member>
+			<member name="last_addr" type="uint32">0x200006A8</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -982,7 +982,7 @@
 			<member name="unit" type="string">*C</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellTemp[0]</member>
-			<member name="last_addr" type="uint32">0x200004BC</member>
+			<member name="last_addr" type="uint32">0x20000638</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -1031,7 +1031,7 @@
 			<member name="unit" type="string">*C</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellTemp[1]</member>
-			<member name="last_addr" type="uint32">0x200004C0</member>
+			<member name="last_addr" type="uint32">0x2000063C</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -1080,7 +1080,7 @@
 			<member name="unit" type="string">*C</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellTemp[2]</member>
-			<member name="last_addr" type="uint32">0x200004C4</member>
+			<member name="last_addr" type="uint32">0x20000640</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -1129,7 +1129,7 @@
 			<member name="unit" type="string">*C</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellTemp[3]</member>
-			<member name="last_addr" type="uint32">0x200004C8</member>
+			<member name="last_addr" type="uint32">0x20000644</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -1178,7 +1178,7 @@
 			<member name="unit" type="string">*C</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellTemp[4]</member>
-			<member name="last_addr" type="uint32">0x200004CC</member>
+			<member name="last_addr" type="uint32">0x20000648</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -1227,7 +1227,7 @@
 			<member name="unit" type="string">*C</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellTemp[5]</member>
-			<member name="last_addr" type="uint32">0x200004D0</member>
+			<member name="last_addr" type="uint32">0x2000064C</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -1276,7 +1276,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellSOC[0]</member>
-			<member name="last_addr" type="uint32">0x2000013C</member>
+			<member name="last_addr" type="uint32">0x20000174</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -1325,7 +1325,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellSOC[1]</member>
-			<member name="last_addr" type="uint32">0x20000140</member>
+			<member name="last_addr" type="uint32">0x20000178</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -1374,7 +1374,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellSOC[2]</member>
-			<member name="last_addr" type="uint32">0x20000144</member>
+			<member name="last_addr" type="uint32">0x2000017C</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -1423,7 +1423,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellSOC[3]</member>
-			<member name="last_addr" type="uint32">0x20000148</member>
+			<member name="last_addr" type="uint32">0x20000180</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -1472,7 +1472,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellSOC[4]</member>
-			<member name="last_addr" type="uint32">0x2000014C</member>
+			<member name="last_addr" type="uint32">0x20000184</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -1521,7 +1521,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellSOC[5]</member>
-			<member name="last_addr" type="uint32">0x20000150</member>
+			<member name="last_addr" type="uint32">0x20000188</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -1570,7 +1570,7 @@
 			<member name="unit" type="string">A</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellCurrent[0]</member>
-			<member name="last_addr" type="uint32">0x200000E8</member>
+			<member name="last_addr" type="uint32">0x20000120</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -1619,7 +1619,7 @@
 			<member name="unit" type="string">A</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellCurrent[1]</member>
-			<member name="last_addr" type="uint32">0x200000EC</member>
+			<member name="last_addr" type="uint32">0x20000124</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -1668,7 +1668,7 @@
 			<member name="unit" type="string">A</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellCurrent[2]</member>
-			<member name="last_addr" type="uint32">0x200000F0</member>
+			<member name="last_addr" type="uint32">0x20000128</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -1717,7 +1717,7 @@
 			<member name="unit" type="string">A</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellCurrent[3]</member>
-			<member name="last_addr" type="uint32">0x200000F4</member>
+			<member name="last_addr" type="uint32">0x2000012C</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -1766,7 +1766,7 @@
 			<member name="unit" type="string">A</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellCurrent[4]</member>
-			<member name="last_addr" type="uint32">0x200000F8</member>
+			<member name="last_addr" type="uint32">0x20000130</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -1815,7 +1815,7 @@
 			<member name="unit" type="string">A</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellCurrent[5]</member>
-			<member name="last_addr" type="uint32">0x200000FC</member>
+			<member name="last_addr" type="uint32">0x20000134</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -1864,7 +1864,7 @@
 			<member name="unit" type="string"/>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">PackSOC</member>
-			<member name="last_addr" type="uint32">0x200004F4</member>
+			<member name="last_addr" type="uint32">0x20000670</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -1913,7 +1913,7 @@
 			<member name="unit" type="string"/>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">PackSOC_EKF</member>
-			<member name="last_addr" type="uint32">0x20000518</member>
+			<member name="last_addr" type="uint32">0x200006A0</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -1962,7 +1962,7 @@
 			<member name="unit" type="string"/>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">PackSOC_UKF</member>
-			<member name="last_addr" type="uint32">0x20000198</member>
+			<member name="last_addr" type="uint32">0x200002D4</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -2011,7 +2011,7 @@
 			<member name="unit" type="string">V</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellVoltage[6]</member>
-			<member name="last_addr" type="uint32">0x2000053C</member>
+			<member name="last_addr" type="uint32">0x200006C8</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -2060,7 +2060,7 @@
 			<member name="unit" type="string">V</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellVoltage[7]</member>
-			<member name="last_addr" type="uint32">0x20000540</member>
+			<member name="last_addr" type="uint32">0x200006CC</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -2109,7 +2109,7 @@
 			<member name="unit" type="string">V</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellVoltage[8]</member>
-			<member name="last_addr" type="uint32">0x20000544</member>
+			<member name="last_addr" type="uint32">0x200006D0</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -2158,7 +2158,7 @@
 			<member name="unit" type="string">V</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellVoltage[9]</member>
-			<member name="last_addr" type="uint32">0x20000548</member>
+			<member name="last_addr" type="uint32">0x200006D4</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -2207,7 +2207,7 @@
 			<member name="unit" type="string">V</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellVoltage[10]</member>
-			<member name="last_addr" type="uint32">0x2000054C</member>
+			<member name="last_addr" type="uint32">0x200006D8</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -2256,7 +2256,7 @@
 			<member name="unit" type="string">V</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellVoltage[11]</member>
-			<member name="last_addr" type="uint32">0x20000550</member>
+			<member name="last_addr" type="uint32">0x200006DC</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -2305,7 +2305,7 @@
 			<member name="unit" type="string">V</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellVoltage[12]</member>
-			<member name="last_addr" type="uint32">0x20000554</member>
+			<member name="last_addr" type="uint32">0x200006E0</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -2354,7 +2354,7 @@
 			<member name="unit" type="string">V</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellVoltage[13]</member>
-			<member name="last_addr" type="uint32">0x20000558</member>
+			<member name="last_addr" type="uint32">0x200006E4</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -2403,7 +2403,7 @@
 			<member name="unit" type="string">V</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellVoltage[14]</member>
-			<member name="last_addr" type="uint32">0x2000055C</member>
+			<member name="last_addr" type="uint32">0x200006E8</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -2452,7 +2452,7 @@
 			<member name="unit" type="string">V</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellVoltage[15]</member>
-			<member name="last_addr" type="uint32">0x20000560</member>
+			<member name="last_addr" type="uint32">0x200006EC</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -2501,7 +2501,7 @@
 			<member name="unit" type="string">V</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellVoltage[16]</member>
-			<member name="last_addr" type="uint32">0x20000564</member>
+			<member name="last_addr" type="uint32">0x200006F0</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -2550,7 +2550,7 @@
 			<member name="unit" type="string">V</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellVoltage[17]</member>
-			<member name="last_addr" type="uint32">0x20000568</member>
+			<member name="last_addr" type="uint32">0x200006F4</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -2599,7 +2599,7 @@
 			<member name="unit" type="string">V</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellVoltage[18]</member>
-			<member name="last_addr" type="uint32">0x2000056C</member>
+			<member name="last_addr" type="uint32">0x200006F8</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -2648,7 +2648,7 @@
 			<member name="unit" type="string">V</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellVoltage[19]</member>
-			<member name="last_addr" type="uint32">0x20000570</member>
+			<member name="last_addr" type="uint32">0x200006FC</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -2697,7 +2697,7 @@
 			<member name="unit" type="string">*C</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellTemp[6]</member>
-			<member name="last_addr" type="uint32">0x200004D4</member>
+			<member name="last_addr" type="uint32">0x20000650</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -2746,7 +2746,7 @@
 			<member name="unit" type="string">*C</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellTemp[7]</member>
-			<member name="last_addr" type="uint32">0x200004D8</member>
+			<member name="last_addr" type="uint32">0x20000654</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -2795,7 +2795,7 @@
 			<member name="unit" type="string">*C</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellTemp[8]</member>
-			<member name="last_addr" type="uint32">0x200004DC</member>
+			<member name="last_addr" type="uint32">0x20000658</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -2844,7 +2844,7 @@
 			<member name="unit" type="string">*C</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellTemp[9]</member>
-			<member name="last_addr" type="uint32">0x200004E0</member>
+			<member name="last_addr" type="uint32">0x2000065C</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -2893,7 +2893,7 @@
 			<member name="unit" type="string">*C</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellTemp[10]</member>
-			<member name="last_addr" type="uint32">0x200004E4</member>
+			<member name="last_addr" type="uint32">0x20000660</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -2942,7 +2942,7 @@
 			<member name="unit" type="string">*C</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellTemp[11]</member>
-			<member name="last_addr" type="uint32">0x200004E8</member>
+			<member name="last_addr" type="uint32">0x20000664</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -2991,7 +2991,7 @@
 			<member name="unit" type="string">*C</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellTemp[12]</member>
-			<member name="last_addr" type="uint32">0x200004EC</member>
+			<member name="last_addr" type="uint32">0x20000668</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -3040,7 +3040,7 @@
 			<member name="unit" type="string">*C</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">CellTemp[13]</member>
-			<member name="last_addr" type="uint32">0x200004F0</member>
+			<member name="last_addr" type="uint32">0x2000066C</member>
 			<member name="byte_size" type="sint32">4</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -3089,7 +3089,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">C0</member>
-			<member name="last_addr" type="uint32">0x200001CA</member>
+			<member name="last_addr" type="uint32">0x200002E6</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -3138,7 +3138,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">C1</member>
-			<member name="last_addr" type="uint32">0x200000D8</member>
+			<member name="last_addr" type="uint32">0x20000110</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -3187,7 +3187,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">C2</member>
-			<member name="last_addr" type="uint32">0x200001C4</member>
+			<member name="last_addr" type="uint32">0x200002E0</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -3236,7 +3236,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">C3</member>
-			<member name="last_addr" type="uint32">0x20000139</member>
+			<member name="last_addr" type="uint32">0x20000171</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -3285,7 +3285,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">C4</member>
-			<member name="last_addr" type="uint32">0x20000515</member>
+			<member name="last_addr" type="uint32">0x2000069D</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -3334,7 +3334,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">C5</member>
-			<member name="last_addr" type="uint32">0x20000510</member>
+			<member name="last_addr" type="uint32">0x20000698</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -3383,7 +3383,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">C6</member>
-			<member name="last_addr" type="uint32">0x200001C9</member>
+			<member name="last_addr" type="uint32">0x200002E5</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -3432,7 +3432,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">C7</member>
-			<member name="last_addr" type="uint32">0x200001BC</member>
+			<member name="last_addr" type="uint32">0x200002D9</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -3481,7 +3481,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">C8</member>
-			<member name="last_addr" type="uint32">0x20000504</member>
+			<member name="last_addr" type="uint32">0x2000068C</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -3530,7 +3530,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">C9</member>
-			<member name="last_addr" type="uint32">0x2000047A</member>
+			<member name="last_addr" type="uint32">0x200005EA</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -3579,7 +3579,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">C10</member>
-			<member name="last_addr" type="uint32">0x20000520</member>
+			<member name="last_addr" type="uint32">0x200006AC</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -3628,7 +3628,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">C11</member>
-			<member name="last_addr" type="uint32">0x20000479</member>
+			<member name="last_addr" type="uint32">0x200005E9</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -3677,7 +3677,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">C12</member>
-			<member name="last_addr" type="uint32">0x20000194</member>
+			<member name="last_addr" type="uint32">0x200002D1</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -3726,7 +3726,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">C13</member>
-			<member name="last_addr" type="uint32">0x200000E5</member>
+			<member name="last_addr" type="uint32">0x2000011D</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -3775,7 +3775,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">C14</member>
-			<member name="last_addr" type="uint32">0x20000192</member>
+			<member name="last_addr" type="uint32">0x200002C9</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -3824,7 +3824,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">C15</member>
-			<member name="last_addr" type="uint32">0x20000478</member>
+			<member name="last_addr" type="uint32">0x200005E8</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -3873,7 +3873,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">C16</member>
-			<member name="last_addr" type="uint32">0x200001C8</member>
+			<member name="last_addr" type="uint32">0x200002E4</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -3922,7 +3922,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">C17</member>
-			<member name="last_addr" type="uint32">0x20000514</member>
+			<member name="last_addr" type="uint32">0x2000069C</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -3971,7 +3971,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">C18</member>
-			<member name="last_addr" type="uint32">0x2000019C</member>
+			<member name="last_addr" type="uint32">0x200002D8</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -4020,7 +4020,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">C19</member>
-			<member name="last_addr" type="uint32">0x20000200</member>
+			<member name="last_addr" type="uint32">0x2000031C</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -4069,7 +4069,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Stat0</member>
-			<member name="last_addr" type="uint32">0x200001C7</member>
+			<member name="last_addr" type="uint32">0x200002E3</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -4118,7 +4118,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Stat1</member>
-			<member name="last_addr" type="uint32">0x20000193</member>
+			<member name="last_addr" type="uint32">0x200002D0</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -4167,7 +4167,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Stat2</member>
-			<member name="last_addr" type="uint32">0x20000507</member>
+			<member name="last_addr" type="uint32">0x2000068F</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -4216,7 +4216,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Stat3</member>
-			<member name="last_addr" type="uint32">0x200001BE</member>
+			<member name="last_addr" type="uint32">0x200002DB</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -4265,7 +4265,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Stat4</member>
-			<member name="last_addr" type="uint32">0x2000013A</member>
+			<member name="last_addr" type="uint32">0x20000172</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -4314,7 +4314,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Stat5</member>
-			<member name="last_addr" type="uint32">0x200004B4</member>
+			<member name="last_addr" type="uint32">0x20000630</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -4363,7 +4363,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Stat6</member>
-			<member name="last_addr" type="uint32">0x200001C5</member>
+			<member name="last_addr" type="uint32">0x200002E1</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -4412,7 +4412,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Stat7</member>
-			<member name="last_addr" type="uint32">0x200001BD</member>
+			<member name="last_addr" type="uint32">0x200002DA</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -4461,7 +4461,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Stat8</member>
-			<member name="last_addr" type="uint32">0x20000506</member>
+			<member name="last_addr" type="uint32">0x2000068E</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -4510,7 +4510,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Stat9</member>
-			<member name="last_addr" type="uint32">0x20000574</member>
+			<member name="last_addr" type="uint32">0x20000700</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -4559,7 +4559,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Stat10</member>
-			<member name="last_addr" type="uint32">0x2000047C</member>
+			<member name="last_addr" type="uint32">0x200005EC</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -4608,7 +4608,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Stat11</member>
-			<member name="last_addr" type="uint32">0x200001C6</member>
+			<member name="last_addr" type="uint32">0x200002E2</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -4657,7 +4657,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Stat12</member>
-			<member name="last_addr" type="uint32">0x20000511</member>
+			<member name="last_addr" type="uint32">0x20000699</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -4706,7 +4706,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Stat13</member>
-			<member name="last_addr" type="uint32">0x2000047B</member>
+			<member name="last_addr" type="uint32">0x200005EB</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -4755,7 +4755,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Stat14</member>
-			<member name="last_addr" type="uint32">0x20000191</member>
+			<member name="last_addr" type="uint32">0x200002C8</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -4804,7 +4804,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Stat15</member>
-			<member name="last_addr" type="uint32">0x20000513</member>
+			<member name="last_addr" type="uint32">0x2000069B</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -4853,7 +4853,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Stat16</member>
-			<member name="last_addr" type="uint32">0x2000018C</member>
+			<member name="last_addr" type="uint32">0x200001C4</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -4951,7 +4951,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Stat18</member>
-			<member name="last_addr" type="uint32">0x200004B5</member>
+			<member name="last_addr" type="uint32">0x20000631</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -5000,7 +5000,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Stat19</member>
-			<member name="last_addr" type="uint32">0x200000E4</member>
+			<member name="last_addr" type="uint32">0x2000011C</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -5049,7 +5049,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Comms771B</member>
-			<member name="last_addr" type="uint32">0x20000138</member>
+			<member name="last_addr" type="uint32">0x20000170</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -5098,7 +5098,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Comms772B</member>
-			<member name="last_addr" type="uint32">0x200004B8</member>
+			<member name="last_addr" type="uint32">0x20000634</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -5147,7 +5147,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Enable771B</member>
-			<member name="last_addr" type="uint32">0x20000512</member>
+			<member name="last_addr" type="uint32">0x2000069A</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
@@ -5196,7 +5196,7 @@
 			<member name="unit" type="string">unit</member>
 			<member name="period" type="sint32">1000</member>
 			<member name="address" type="string">Enable772B</member>
-			<member name="last_addr" type="uint32">0x200004B7</member>
+			<member name="last_addr" type="uint32">0x20000633</member>
 			<member name="byte_size" type="sint32">1</member>
 			<member name="description" type="string"/>
 			<member name="comment" type="string"/>
