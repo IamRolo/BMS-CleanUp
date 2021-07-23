@@ -5,7 +5,7 @@
     "liteServerUrl": "localhost:41000",
     "connString": "Managed from Desktop Application"
   },
-  "cellsNumber": 6,
+  "cellsNumber": 20,
   "units": {
     "systemSocUnits": "%",
     "systemVoltageUnits": "V",
